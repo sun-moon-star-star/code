@@ -27,7 +27,7 @@ int main()
             ans += a1 / 3 * 3;
             if (a1 % 3 == 2)
             {
-                ans += 1
+                ans += 1;
             }
         }
         if (a2 > 1)
